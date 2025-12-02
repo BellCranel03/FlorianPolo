@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology/Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Information Technology Labs</b>
+  - [Active Directory Home lab](https://github.com/BellCranel03/ActiveDirectoryLab)
 
 <h2>📜 Certifications</h2>
  
