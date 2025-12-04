@@ -1,9 +1,9 @@
 <h1>Hi, I'm Florian!
 
-<h2>👨‍💻 Information Technology/Cybersecurity Projects:</h2>
+<h2>👨‍💻 Active Directory Projects:</h2>
 
-- <b>Information Technology Labs</b>
-  - [Active Directory Home lab](https://github.com/BellCranel03/ActiveDirectoryLab)
+- <b>Active Directory Home Labs</b>
+  - [Active Directory Account Creation](https://github.com/BellCranel03/ActiveDirectoryLab)
 
 <h2>📜 Certifications</h2>
  
