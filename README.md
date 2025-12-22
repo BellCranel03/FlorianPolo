@@ -5,6 +5,7 @@
 - <b>Active Directory Home Labs</b>
   - [Active Directory Account Creation](https://github.com/BellCranel03/ActiveDirectoryLab)
   - [Join Domain Account](https://github.com/BellCranel03/JoinDomain/blob/main/README.md)
+  - [Active Directory Account via OU](https://github.com/BellCranel03/ActiveDirectoryOU/blob/main/README.md)
 
 <h2>📜 Certifications</h2>
  
